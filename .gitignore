@@ -1,0 +1,14 @@
+__pycache__
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+fsrnn.egg-info
+.idea
+.DS_Store
+.vscode
+/data
+.history
+*.zip
+venv
+students_summaries
+*.csv
+testing.ipynb
